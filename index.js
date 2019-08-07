@@ -11,11 +11,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 
 const poolData = {
-  UserPoolId: 'us-east-1_bzewJJvhX',
-  ClientId: '88lj6rgjuit71beo84i4grqu2',
+  UserPoolId: 'xxxxxxxxxxxxxxxxxxxxx',
+  ClientId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
 }
 const userPool = new AmazonCognitoIdentity.CognitoUserPool(poolData);
-
 
 
 ///////////////////// FUNCTION LOGIN USER ////////////////////////////////////////////
