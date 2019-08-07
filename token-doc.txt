@@ -1,0 +1,21 @@
+aws for  everyone : new clues emerge about amazon secretive low code/ no code  project
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+low code
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+aurora en QA
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+QUEES 0 LAG
+
+https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CognitoIdentityServiceProvider.html
+
+https://forum.serverless.com/t/how-to-use-aws-cognito-refresh-token/4327/3
+
+https://www.google.com/search?q=Cognito+Refresh+Token&rlz=1C1CHZL_esPE758PE758&ei=n7hHXcmMAYmd5wKc8aKYCg&start=10&sa=N&ved=0ahUKEwiJ2OGG-urjAhWJzlkKHZy4CKMQ8NMDCKAB&biw=1366&bih=647
